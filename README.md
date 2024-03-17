@@ -6,6 +6,8 @@ This repository contains a full stack web project built using React.js for the f
 
 The React Dapp in this repo looks like this:
 
+![3-17-2024 (18-08-36)](https://github.com/Ne3mah/Simple-React-DApp-Project/assets/83452116/b510f8f2-71c0-41b6-aeef-e10372fa2d2d)
+
 ## Technologies Used
 
 - **React.js:** A popular JavaScript library for building user interfaces.
